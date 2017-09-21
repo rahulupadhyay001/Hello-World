@@ -1,5 +1,4 @@
 # Hello-World
-//First Repository
 Class Main
 {
 public static void main(Sting [])
